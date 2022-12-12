@@ -1,0 +1,60 @@
+a{
+    text-decoration:none;
+}
+
+.navbar{
+    height:41px;
+    width:100%;
+    background-color:#028275;
+    display:flex;
+}
+.nav_serach:hover{
+    background-color: #cccccc;
+}
+.nav_serach:active{
+    background-color:black;
+}
+.nav_menu{
+    display:flex;
+    margin-left:10%;
+    height:41px;
+    line-height:41px;
+}
+
+.wrpa.text > .nav_rtext{
+    width:100%;
+}
+
+.nav_row{
+    display:flex;
+    width:100%;
+    justify-content:space-around;
+}
+.nav_text{
+    display:flex;
+    height:41px;
+}
+.nav_rtext{
+    width:250px;
+    height:37px;
+    border:1px solid #CCCCCC;
+
+}
+.nav_serach{
+    width:40px;
+    text-align:center;
+
+    line-height:41px;
+    border:1px solid #CCCCCC;
+    background-color:white;
+}
+.nav_left_menu{
+font-size:18px;
+color:white;
+padding: 0px 20px;
+}
+.h_menu:hover{
+    opacity:0.5;
+    background-color:gray;
+}
+.nav_left_menu > a:visited { color:white; }

@@ -1,0 +1,28 @@
+
+footer{
+    font-family: 'Ms Madi', cursive;
+    font-size:25px;
+}
+
+.footer{
+background-color: white;
+height:194px;
+line-height: 50px;
+}
+
+.footer_first{
+    text-align: center;
+}
+.footer_second{
+    text-align:center;
+}
+
+.footer_third{
+    font-size:17px;
+    text-align:center;
+}
+.footer_ig{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}

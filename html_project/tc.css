@@ -1,0 +1,15 @@
+body{
+    background-color:antiquewhite
+}
+
+
+.content{
+    display:flex;
+    border:1px solid black;
+}
+
+.nav{
+    height:40px;
+    background-color:rgb(051, 180, 160);
+    border:1px solid gray;
+}

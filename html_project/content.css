@@ -1,0 +1,149 @@
+
+  
+  body{
+    margin:0;
+    width:100%;
+    height:100%;
+  }
+
+h2{
+    margin-left:20px;
+    margin-top:20px;
+    margin-bottom:0;
+}
+p{
+    margin-top:10px;
+    margin-left:40px;
+}
+
+a{
+    text-decoration: none;
+    color:blueviolet;
+}
+.fas{
+    padding:7px;
+}
+.fab{
+    padding:10px;
+}
+.if{
+    position: relative;
+    padding-bottom: 56.25%;
+    width: 70%;
+    height: 0;
+
+}
+.if>iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:100%;
+}
+
+
+.img_td{
+    display:flex;
+    height:430px;
+}
+
+.image{
+    max-width:100%;
+    height:430px;
+}
+
+
+.content{
+    display:flex;
+    background-color:#FFFFFF;
+    width:100%;
+    height:100%;
+}
+
+.content_empty{
+    background-color:#EFEFEF;
+    
+    width:5%;
+}
+
+.content_main{
+    border:1px solid #CCCCCC;
+    width:69%;
+    padding: 10px 20px;
+}
+
+.content_index{
+    width:26%;
+    background-color:#EFEFEF;
+}
+
+.content_table{
+    margin-top:25px;
+    text-align:center;
+
+    max-height:auto;
+}
+
+.content_table_t{
+    background-color:#FDCC5F;
+
+    max-height:auto;
+}
+
+.index{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding:5px;
+
+}
+
+.content_table > table > tbody > tr:nth-child(1) > td{
+    background-color:#dd5c3d;
+    color:#fcda5f;
+    text-align:center;
+    height:40px;
+    line-height:25px;
+    font-size:23px; 
+
+}
+
+.content_table > table > tbody > tr:nth-child(2) > td{
+
+    
+    text-align:center;
+    margin:auto;
+}
+
+.content_table > table > tbody > tr:nth-child(3) > td{
+    background-color:#dd5c3d;
+    color:#fcda5f;
+    text-align:center;
+    height:40px;
+    line-height:25px;
+    font-size:23px; 
+}
+
+.content_index_box{
+    position: fixed; 
+    width:15%;
+    margin:0 auto;
+    margin-top:15%;
+    right:5%;
+    background-color: white;
+    border:1px solid gray;    
+}
+
+.content_table > table {
+    margin-left:auto; 
+    margin-right:auto;
+
+}
+
+.content_table > table, td, th {
+    border-collapse : collapse;
+    border : none;
+};
+
+
+

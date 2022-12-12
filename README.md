@@ -1,1 +1,1 @@
-# KB_project
+# KB_project 폴더
