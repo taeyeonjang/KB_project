@@ -152,6 +152,8 @@ public class Bus
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
+crud 예시
+
 use hhdb
 
 insert into user_table(user_id, user_passWord, user_name, user_phoneNum, user_email) values ('123', '김22', '이33', '박44', '최55')
