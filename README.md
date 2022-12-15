@@ -1,4 +1,4 @@
-# 1. C_Todo_project : 할일을 기록하는 TodoList를 만듬(C, 구조체, stream)
+# 1. C_Todo_project : 할일을 기록하는 TodoList를 만듦(C, 구조체, stream)
 # 2. C_lotto_project : 나만의 규칙을 이용한 로또 프로젝트 (C, 난수생성)
 # 3. html_project : 자기소개 Page 만듦 (html, css)
 # 4. SQL_project : 항공 예약 서비스를 생각하여 구현함 (SQL)
